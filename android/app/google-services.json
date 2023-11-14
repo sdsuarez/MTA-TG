@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "969873094057",
+    "project_id": "tydapp-7ee27",
+    "storage_bucket": "tydapp-7ee27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969873094057:android:d682eb04e72ce9ae8a80b8",
+        "android_client_info": {
+          "package_name": "com.example.tdapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969873094057-jn8lh61qj1dml34b0a2l3djvuaok1qau.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tdapp",
+            "certificate_hash": "a3f7755eef6c552dbaf9a7e56387d9431155ddda"
+          }
+        },
+        {
+          "client_id": "969873094057-g17djs7p59ur07r6sjkrb8akgepeit2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuAUPXPxBBgLnOAKwg7uJc1qYU_nxyCXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969873094057-g17djs7p59ur07r6sjkrb8akgepeit2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
