@@ -204,9 +204,9 @@ class _StroopGamePageState extends State<StroopGamePage> {
                               mainAxisAlignment: MainAxisAlignment.center,
                               children: <Widget>[
                                 const Text(
-                                  '¡Selecciona el color del texto!',
+                                  '¡Selecciona el color que dice el texto!',
                                   style: TextStyle(
-                                    fontSize: 20.0,
+                                    fontSize: 18.0,
                                     color: Colors.white,
                                   ),
                                   textAlign: TextAlign.center,
